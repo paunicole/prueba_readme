@@ -183,7 +183,9 @@ Permite crear, leer, actualizar y eliminar recetas a través de formularios.
 - Vercel/Netlify para despliegue
 
 ## 🌐 Demo <a name = "demo"></a>
-Link: 
+Link: [Aplicación de Recetas](https://example.com)
+
+![Vista previa](img-vista-previa.png)
 
 ## ✒️ Autoras <a name = "authors"></a>
 
