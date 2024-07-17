@@ -22,6 +22,7 @@ El objetivo es demostrar los conocimientos adquiridos durante el curso, incluyen
   - [Recipe Ingredients](#recipe-ingredients)
   - [Steps](#steps)
 - [Tecnologías utilizadas](#technologies)
+- [Demo](#demo)
 - [Autores](#authors)
 
 ## ⚙️ Instalación <a name = "installation"></a>
@@ -180,6 +181,9 @@ Permite crear, leer, actualizar y eliminar recetas a través de formularios.
 - API RESTful (con autenticación JWT)
 - Git para control de versiones
 - Vercel/Netlify para despliegue
+
+## 🌐 Demo <a name = "demo"></a>
+Link: 
 
 ## ✒️ Autoras <a name = "authors"></a>
 
