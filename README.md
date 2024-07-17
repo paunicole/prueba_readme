@@ -1,8 +1,8 @@
-# Aplicación de Música
+# Aplicación de Recetas
 
 ## 🚀 Sobre el proyecto <a name = "about"></a>
 
-Este proyecto es una aplicación web de música desarrollada como parte del Trabajo Práctico Integrador para la materia Programación 3. La aplicación utiliza ReactJS para el frontend y una API RESTful para consumir y manipular datos.
+Este proyecto es una aplicación web de recetas desarrollada como parte del Trabajo Práctico Integrador para la materia Programación 3. La aplicación utiliza ReactJS para el frontend y una API RESTful para consumir y manipular datos.
 
 El objetivo es demostrar los conocimientos adquiridos durante el curso, incluyendo autenticación, manejo de sesiones, y operaciones CRUD (Create, Read, Update, Delete).
 
