@@ -1,6 +1,6 @@
 # Aplicación de Recetas
 
-![img-portada](.portada.png)
+![img-portada](.img-portada1.png)
 
 ## 🚀 Sobre el proyecto <a name = "about"></a>
 
