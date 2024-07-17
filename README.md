@@ -1,5 +1,7 @@
 # Aplicación de Recetas
 
+![img-portada](.portada.png)
+
 ## 🚀 Sobre el proyecto <a name = "about"></a>
 
 Este proyecto es una aplicación web de recetas desarrollada como parte del Trabajo Práctico Integrador para la materia Programación 3. La aplicación utiliza ReactJS para el frontend y una API RESTful para consumir y manipular datos.
