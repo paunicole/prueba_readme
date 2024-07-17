@@ -2,6 +2,8 @@
 
 ## 🚀 Sobre el proyecto <a name = "about"></a>
 
+Este proyecto es una aplicación web de música desarrollada como parte del Trabajo Práctico Integrador para la materia Programación 3. La aplicación utiliza ReactJS para el frontend y una API RESTful para consumir y manipular datos. El objetivo es demostrar los conocimientos adquiridos durante el curso, incluyendo autenticación, manejo de sesiones, y operaciones CRUD (Create, Read, Update, Delete).
+
 ## 📝 Índice
 - [Sobre el proyecto](#about)
 - [Instalación](#installation)
@@ -20,13 +22,57 @@
 
 ## ⚙️ Instalación <a name = "installation"></a>
 
+1. **Clona el repositorio:**
+   ```bash
+   git clone https://github.com/paunicole/app-musica.git
+   ```
+
+2. **Navega al directorio del proyecto:**
+   ```bash
+   cd app-musica
+   ```
+
+3. **Instala las dependencias:**
+   ```bash
+   npm install
+   ```
+
+4. **Ejecuta la aplicación en modo desarrollo:**
+   ```bash
+   npm start
+   ```
+
 ## 🏛️ Estructura del proyecto <a name = "project-structure"></a>
+
+```bash
+raíz del proyecto
+├───src/
+│   ├───components/
+│   ├───pages/
+│   ├───services/
+│   ├───App.js
+│   ├───index.js
+```
 
 ## ⚡ Funcionalidades <a name = "functionalities"></a>
 
 ### Login
+Permite a los usuarios autenticarse en la aplicación utilizando JWT.
 
 ### Registro de Usuarios
+Permite a los nuevos usuarios registrarse en la aplicación.
+
+### Navegación
+Incluye rutas para navegar entre diferentes secciones de la aplicación:
+
+| URL        | Descripción                               |
+|------------|-------------------------------------------|
+| /          | Página de inicio con una lista de recetas |
+| /login     | Página de inicio de sesión                |
+| /profile   | Página de perfil de usuario               |
+
+### CRUD de Recetas
+Permite crear, leer, actualizar y eliminar recetas a través de formularios.
 
 ## 🗺 API <a name = "api"></a>
 
@@ -126,7 +172,10 @@
 | /reciperover/steps/{id}        | DELETE | Elimina un paso                                |
 
 ## ⛏️ Técnologías utilizadas <a name = "technologies"></a>
-- 
+- ReactJS
+- API RESTful (con autenticación JWT)
+- Git para control de versiones
+- Vercel/Netlify para despliegue
 
 ## ✒️ Autoras <a name = "authors"></a>
 
