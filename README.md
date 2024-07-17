@@ -173,7 +173,7 @@ Permite crear, leer, actualizar y eliminar recetas a través de formularios.
 | /reciperover/steps/{id}        | PATCH  | Actualiza parcialmente un paso de una receta   |
 | /reciperover/steps/{id}        | DELETE | Elimina un paso                                |
 
-## ⛏️ Técnologías utilizadas <a name = "technologies"></a>
+## ⛏️ Tecnologías utilizadas <a name = "technologies"></a>
 - ReactJS
 - API RESTful (con autenticación JWT)
 - Git para control de versiones
