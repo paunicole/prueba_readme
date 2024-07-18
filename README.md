@@ -51,12 +51,20 @@ El objetivo es demostrar los conocimientos adquiridos durante el curso, incluyen
 
 ```bash
 raíz del proyecto
+├───img-repo/
+├───public/
 ├───src/
+│   ├───assets/
+│   │   ├───css/
+│   │   ├───img/
 │   ├───components/
-│   ├───pages/
-│   ├───services/
-│   ├───App.js
-│   ├───index.js
+│   │   ├───Auth/
+│   │   ├───contexts/
+│   │   ├───hooks/
+│   │   ├───recetas/
+│   ├───routes/
+│   ├───main.jsx
+├───index.html
 ```
 
 ## ⚡ Funcionalidades <a name = "functionalities"></a>
